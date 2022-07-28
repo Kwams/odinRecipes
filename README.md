@@ -6,3 +6,4 @@ SInce I've started I've learned how to:
 - write good, useful git commits
 - use git in combination with github
 - use basic HTML Tags
+- link pages between them
